@@ -81,6 +81,6 @@ if __name__ == "__main__":
     Show.grid(row=4, column=1)
 
     Exit.grid(row=5, column=1)
-
+#Exit.grid(row=5, column=1)
     # start the GUI
     gui.mainloop()
